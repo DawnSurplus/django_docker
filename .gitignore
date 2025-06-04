@@ -10,7 +10,7 @@
 *.bin
 ted*
 naver*
-*.txt
+
 *.keras
 *.mp3
 *.wav
